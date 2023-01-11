@@ -2,7 +2,7 @@
 
 
 
-  <h3><b>README FILE</b></h3>
+  <h3><b>README FILE:</b></h3>
 
 </div>
 
